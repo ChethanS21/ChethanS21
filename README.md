@@ -1,173 +1,201 @@
-# Hi 👋, I'm Chethan S
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Chethan S
 
-### Software Developer | Java Developer | Full Stack Developer
+### 🚀 Full Stack Developer | Java Enthusiast | Problem Solver
 
-📍 Bengaluru, Karnataka, India
-📧 [chethans2102@gmail.com](mailto:chethans2102@gmail.com)
-💼 LinkedIn: www.linkedin.com/in/chethan-s-a47039303
-🌐 Portfolio: https://my-portfolio-eight-smoky-96.vercel.app/
+> Building software that solves real-world problems, one commit at a time.
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 Who Am I?
 
-I am a Software Developer with strong technical skills in Java, Python, SQL, HTML, CSS, JavaScript, React.js, Spring Boot, and MERN Stack development.
+I'm a software developer from Bengaluru who enjoys transforming ideas into applications.
 
-I enjoy building scalable web applications, solving real-world problems, and continuously learning new technologies. My experience spans full-stack web development, database management, REST APIs, and software engineering principles.
+I specialize in developing scalable web applications using **Java, Spring Boot, React, Node.js, MongoDB, and Python**.
 
-Currently, I am focused on improving my expertise in Full Stack Java Development and modern web technologies.
+Whether it's building a full-stack platform, integrating APIs, or solving algorithmic challenges, I enjoy learning, building, and improving every day.
 
 ---
 
-## 💻 Technical Skills
+## 🔥 Current Journey
 
-### Programming Languages
+```java
+public class Chethan {
 
-* Java
-* Python
-* SQL
-* JavaScript
+    String role = "Software Developer";
 
-### Frontend Development
+    String[] skills = {
+        "Java",
+        "Spring Boot",
+        "React.js",
+        "Node.js",
+        "MongoDB",
+        "Python"
+    };
 
-* React.js
-* HTML5
-* CSS3
-* JavaScript
+    String currentFocus = "Building production-ready applications";
 
-### Backend Development
+    public String goal() {
+        return "Become an exceptional Full Stack Engineer";
+    }
+}
+```
 
-* Node.js
-* Express.js
-* Spring Boot
-* REST APIs
+---
 
-### Databases
+## ⚡ Tech Arsenal
 
-* MongoDB
-* MySQL
+### Languages
 
-### Frameworks & Technologies
+☕ Java
+🐍 Python
+🟨 JavaScript
+🗄️ SQL
 
-* JDBC
-* Hibernate
-* Servlets
-* JSP
-* JSTL
-* Spring IoC
-* Spring MVC
+### Frontend
+
+⚛️ React.js
+🎨 HTML5
+🎯 CSS3
+
+### Backend
+
+🚀 Spring Boot
+🟢 Node.js
+⚡ Express.js
+🔗 REST APIs
+
+### Database
+
+🍃 MongoDB
+🐬 MySQL
 
 ### Tools
 
-* Git
-* GitHub
-* Postman
-* VS Code
-* Eclipse
-* Figma
-
-### Core Concepts
-
-* Object-Oriented Programming (OOP)
-* Data Structures & Algorithms
-* Database Management Systems
-* Software Development Life Cycle
+Git • GitHub • Postman • VS Code • Eclipse • Figma
 
 ---
 
-## 💼 Experience
+# 🌟 Featured Projects
 
-### Software Intern | KUKA Robotics, Bangalore
+## 🌾 Friendly Farmers
 
-**March 2025 – June 2025**
+A MERN Stack marketplace that connects farmers directly with consumers.
 
-* Programmed and debugged industrial robots using PLC communication tools.
-* Assisted in real-time automation systems and troubleshooting software-hardware integration issues.
-* Created technical documentation for robotic workflows and testing procedures.
-* Collaborated with cross-functional teams to improve deployment and debugging processes.
+### Highlights
 
----
+✅ Direct Farmer-to-Consumer Sales
 
-## 🌟 Featured Projects
+✅ Real-Time Product Availability
 
-### 🌾 Friendly Farmers (MERN Stack)
+✅ Order Management
 
-A marketplace platform connecting farmers directly with consumers.
+✅ Transparent Pricing
 
-**Features:**
+✅ Responsive User Interface
 
-* Product listing and management
-* Direct farmer-to-consumer transactions
-* Real-time product availability
-* Order tracking
-* Pricing transparency
+**Tech Stack**
 
-**Tech Stack:** React.js, Node.js, Express.js, MongoDB
+React.js • Node.js • Express.js • MongoDB
 
 ---
 
-### 🛒 E-Commerce Website
+## 🏥 Health-Mate AI
 
-A full-stack e-commerce application built using Django and MySQL.
+AI-powered healthcare assistant that analyzes symptoms and provides preliminary guidance.
 
-**Features:**
+### Features
 
-* User authentication
-* Shopping cart management
-* Inventory tracking
-* Secure order processing
+* Symptom Analysis
+* Severity Detection
+* Escalation Recommendations
+* Conversational User Experience
 
-**Tech Stack:** Python, Django, MySQL
+**Tech Stack**
 
----
-
-### 🏥 Health-Mate AI
-
-An AI-powered healthcare chatbot providing symptom analysis and preliminary health insights.
-
-**Features:**
-
-* Symptom analysis
-* Severity scoring
-* Consultation recommendations
-* Conversational chatbot interface
-
-**Tech Stack:** Python, Flask, AI/ML
+Python • Flask • AI/ML
 
 ---
 
-## 🎓 Education
+## 🛒 E-Commerce Platform
 
-### PES University
+A complete online shopping solution with authentication, cart management, inventory handling, and secure ordering.
 
-**Master of Computer Applications (MCA)**
-CGPA: 6.22
-2023 – 2025
+**Tech Stack**
 
-### BMS College of Commerce and Management
-
-**Bachelor of Computer Applications (BCA)**
-CGPA: 7.14
-2020 – 2023
+Python • Django • MySQL
 
 ---
 
-## 🎯 Current Focus
+# 💼 Experience
 
-* Full Stack Java Development
-* Spring Boot Microservices
-* MERN Stack Applications
-* Data Structures & Algorithms
-* Cloud Deployment
+## Software Intern @ KUKA Robotics
+
+📅 March 2025 – June 2025
+
+Worked on industrial automation systems and robotic programming.
+
+### Responsibilities
+
+* Robot programming and debugging
+* PLC communication
+* Software-hardware integration
+* System testing and deployment
+* Technical documentation
 
 ---
 
-## 📫 Connect With Me
+# 🎓 Education
 
-* GitHub: https://github.com/ChethanS21
-* Email: [chethans2102@gmail.com](mailto:chethans2102@gmail.com)
-* LinkedIn: www.linkedin.com/in/chethan-s-a47039303
+### Master of Computer Applications
+
+🏫 PES University
+
+2023 - 2025
 
 ---
 
-⭐ Thank you for visiting my profile!
+### Bachelor of Computer Applications
+
+🏫 BMS College of Commerce & Management
+
+2020 - 2023
+
+---
+
+# 📈 Coding Mindset
+
+```text
+Learn → Build → Fail → Improve → Repeat
+```
+
+---
+
+# 📊 GitHub Analytics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChethanS21\&show_icons=true\&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ChethanS21\&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChethanS21\&layout=compact\&theme=radical)
+
+---
+
+# 🤝 Let's Connect
+
+📧 Email: [chethans2102@gmail.com](mailto:chethans2102@gmail.com)
+
+💼 LinkedIn: Your LinkedIn URL
+
+🌐 Portfolio: Your Portfolio URL
+
+🐙 GitHub: https://github.com/ChethanS21
+
+---
+
+## ☕ Fun Fact
+
+I enjoy building projects that solve practical problems and learning new technologies faster than my coffee gets cold.
+
+---
+
+⭐ Thanks for stopping by. Feel free to explore my repositories and connect with me!
