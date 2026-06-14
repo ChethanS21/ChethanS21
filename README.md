@@ -184,9 +184,9 @@ Learn → Build → Fail → Improve → Repeat
 
 📧 Email: [chethans2102@gmail.com](mailto:chethans2102@gmail.com)
 
-💼 LinkedIn: Your LinkedIn URL
+💼 LinkedIn: www.linkedin.com/in/chethan-s-a47039303
 
-🌐 Portfolio: Your Portfolio URL
+🌐 Portfolio: https://my-portfolio-eight-smoky-96.vercel.app/
 
 🐙 GitHub: https://github.com/ChethanS21
 
