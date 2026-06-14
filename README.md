@@ -124,7 +124,6 @@ public class Chethan {
 | ✅ Real-time inventory | ✅ Severity detection | ✅ JWT Authentication |
 | ✅ Order tracking | ✅ Escalation alerts | ✅ Role-based access |
 | ✅ Direct transactions | ✅ Conversational UI | ✅ Inventory management |
-| [View Repo →](https://github.com/ChethanS21) | [View Repo →](https://github.com/ChethanS21) | [View Repo →](https://github.com/ChethanS21) |
 
 </div>
 
